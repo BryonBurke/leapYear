@@ -37,3 +37,7 @@ _{Tell me about the languages and tools you used to create this app. Assume that
 Copyright (c) 2016 **_{List of contributors or company name}_**
 
 Specifications
+
+First Specification: Enter year, return false
+
+Specification 2: true if year % 4 = 0
