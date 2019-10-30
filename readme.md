@@ -41,3 +41,5 @@ Specifications
 First Specification: Enter year, return false
 
 Specification 2: true if year % 4 = 0
+
+Specification 3: false if year / 100 =0
